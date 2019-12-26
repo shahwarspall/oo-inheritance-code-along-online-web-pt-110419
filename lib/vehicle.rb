@@ -1,3 +1,3 @@
 class Vehicle
-
+def 
 end
