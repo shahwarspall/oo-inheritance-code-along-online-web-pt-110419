@@ -1,4 +1,5 @@
 class Vehicle
+<<<<<<< HEAD
 
     @@all=[]
 
@@ -17,4 +18,7 @@ class Vehicle
     def fill_up_tank
         "filling up!"
     end 
+=======
+def 
+>>>>>>> 43307d44e2a607f369d78606b56ba0c90f94c8bf
 end
